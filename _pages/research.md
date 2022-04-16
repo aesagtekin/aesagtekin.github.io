@@ -1,5 +1,5 @@
 ---
-title: "*Modeling perceptual decision-making mechanism considering the
+title: "•Modeling perceptual decision-making mechanism considering the
 multilayered structure of the cortex"
 permalink: /research/
 ---
@@ -7,7 +7,7 @@ permalink: /research/
 Will be updated.
 	
 ---
-# *Implementing the cortex model in "Simple model of spiking neurons" paper by E. M. Izhikevich (2003) with Brian2
+# •Implementing the cortex model in "Simple model of spiking neurons" paper by E. M. Izhikevich (2003) with Brian2
 
 1000 randomely connected neurons are simulated. 
 
