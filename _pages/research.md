@@ -15,7 +15,8 @@ Ongoing. Will be updated.
 
 # • A computational model for the microcircuitry of the cortical laminar architecture 
 
-We simplified the cortical column model in the paper "Large-scale model of mammalian thalamocortical systems" (E. M. Izhikevich, G. M. Edelman)
+We simplified the cortical column model in the paper "Large-scale model of mammalian thalamocortical systems" (E. M. Izhikevich, G. M. Edelman).
+
 We excluded the active synaptic compartments and introduced biologically plausible delays and attenuations. Also, we excluded the dopamine-modulated STDP since our simulation work-station is not much powerful. We write the codes in Brian2, and we will hopefully publish the code here soon.
 
 ---
