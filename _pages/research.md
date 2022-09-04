@@ -18,4 +18,4 @@ Credit: Figure: Marcel Stimberg, Modifications/improvements on initial draft: Se
 
 [Code](https://brian2.readthedocs.io/en/stable/examples/frompapers.Izhikevich_2003.html) 
 
-Results: ![Brian2]((https://brian2.readthedocs.io/en/stable/_images/frompapers.Izhikevich_2003.1.png))
+Results: ![Brian2](https://brian2.readthedocs.io/en/stable/_images/frompapers.Izhikevich_2003.1.png)
