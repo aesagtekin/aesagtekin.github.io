@@ -4,6 +4,6 @@ permalink: /community/
 date: 2022-10-02
 ---
 
-We gather once a week. I moderate the group and introduce the dynamical systems approach for analyzing the spiking neural networks and mass models. 
+We gathered once a week in the 2021-2022 Spring Semester. I moderated the group and introduced the dynamical systems approach for analyzing the spiking neural networks and mass models. 
 
 [Download syllabus here](http://aesagtekin.github.io/files/syllabus.pdf)
