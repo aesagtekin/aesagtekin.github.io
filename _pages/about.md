@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm senior undergraduate student in Electronics and Communication Engineering at Istanbul Technical University (ITU). I'm mainly interested in biological neural networks, biophysical modeling, and dynamical systems theory.
+I graduated in Electronics and Communication Engineering at Istanbul Technical University (ITU). I will be at the University of Tübingen for my master's in Neural Information Processing - Computational Neuroscience degree. I'm mainly interested in biological neural networks, biophysical modeling, and dynamical systems theory.
 
-Most recently, I work on multilayered modeling of cortex. My ultimate research goal is investigating the neural dynamics with detailed biologically plausible models. I work on under the supervision of Prof. Dr. Neslihan Serap Şengör, at the [ITU Neuroscience Modelling and Research Group](https://www.simmag.itu.edu.tr/).
+During my bachelor's thesis, I worked on multilayered modeling of cortex with spiking neuron models under the supervision of Prof. Dr. Neslihan Serap Şengör at the [ITU Neuroscience Modelling and Research Group](https://www.simmag.itu.edu.tr/).
+
+My ultimate goal is to take a step toward getting a better understanding of the brain with the help of math and simulations. 
 
 ![](https://aesagtekin.github.io/images/izh.jpeg)
 
