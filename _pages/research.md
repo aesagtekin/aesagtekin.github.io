@@ -14,7 +14,7 @@ Will be added.
 ---
 # • Implementing the cortex model in the "Simple model of spiking neurons" paper by E. M. Izhikevich (2003) with Brian2
 
-Credits:  <br>
+Credits:  <br> <br>
 Figure: Marcel Stimberg  <br>
 Modifications/improvements on initial draft: Sebastian Schmitt  <br>
  
