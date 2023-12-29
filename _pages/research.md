@@ -23,7 +23,7 @@ For single neuron models, reproducing characteristics of neuronal activity such 
 	
 ---
 
-# • Reinforcement Learning in Biological Neural Networks
+# • Reinforcement learning in biological neural networks
 
 Click [here](http://aesagtekin.github.io/files/RLwithSNNs.pdf) to download the full report. Supervised by Georgy Antonov and Peter Dayan.
 <br> <br>
