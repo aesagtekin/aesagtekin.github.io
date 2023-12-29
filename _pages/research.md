@@ -25,7 +25,7 @@ For single neuron models, reproducing characteristics of neuronal activity such 
 
 # • Reinforcement learning in biological neural networks
 
-Click [here](http://aesagtekin.github.io/files/RLwithSNNs.pdf) to download the full report. Supervised by Georgy Antonov and Peter Dayan.
+Click [here](http://aesagtekin.github.io/files/RLwithSNNs.pdf) to download the full report (will take some time). Supervised by Georgy Antonov and Peter Dayan.
 <br> <br>
 Abstract
 <br> <br>
@@ -42,7 +42,7 @@ rules.
 
 # • Emergent E/I tuning and balance during surrogate gradient learning
 
-Click [here](http://aesagtekin.github.io/files/SurrogateLearning.pdf) to download the poster. Supervised by Manos Giannakakis and Anna Levina.
+Click [here](http://aesagtekin.github.io/files/SurrogateLearning.pdf) to download the poster (will take some time). Supervised by Manos Giannakakis and Anna Levina.
 <br> <br>
 Take-home Messages
 <br> <br>
