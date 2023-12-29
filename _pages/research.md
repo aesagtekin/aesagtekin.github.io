@@ -12,7 +12,7 @@ Ongoing project. Supervised by Matthijs Pals and Jakob Macke.
 
 # • Single-compartment model of a pyramidal neuron, fitted to recordings with current and conductance injection
 
-Paper link: https://link.springer.com/article/10.1007/s00422-023-00976-7 <br>
+[Link to paper](https://link.springer.com/article/10.1007/s00422-023-00976-7) <br>
 Anton V. Chizhov, Dmitry V. Amakhin, **A. Erdem Sagtekin** & Mathieu Desroches.
 <br> <br>
 Abstract
