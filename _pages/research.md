@@ -1,9 +1,6 @@
 ---
 title: "Research"
 permalink: /research/
----
-
-This page is not completed yet.
 
 ---
 
