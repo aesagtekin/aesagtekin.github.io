@@ -10,9 +10,9 @@ This page is not completed yet.
 # • Reinforcement Learning in Biological Neural Networks
 
 Click [here](https://brian2.readthedocs.io/en/stable/examples/frompapers.Izhikevich_2003.html) to download the full report. Advised by Georgy Antanov and Peter Dayan
-<br>
+<br> <br>
 Abstract
-<br>
+<br> <br>
 Reinforcement learning (RL) framework provides experimentally justified explanations for
 animal learning. On the other hand, animal learning has been extensively associated with synaptic
 plasticity, which is commonly studied by employing spiking neural networks in computational
