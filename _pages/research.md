@@ -4,9 +4,23 @@ permalink: /research/
 
 ---
 
+# • Single-compartment model of a pyramidal neuron, fitted to recordings with current and conductance injection
+
+Anton V. Chizhov, Dmitry V. Amakhin, A. Erdem Sagtekin & Mathieu Desroches.
+<br>
+Paper link: https://link.springer.com/article/10.1007/s00422-023-00976-7
+<br> <br>
+Abstract
+<br> <br>
+For single neuron models, reproducing characteristics of neuronal activity such as the firing rate, amplitude of spikes, and threshold potentials as functions of both synaptic current and conductance is a challenging task. In the present work, we measure these characteristics of regular spiking cortical neurons using the dynamic patch-clamp technique, compare the data with predictions from the standard Hodgkin-Huxley and Izhikevich models, and propose a relatively simple five-dimensional dynamical system model, based on threshold criteria. The model contains a single sodium channel with slow inactivation, fast activation and moderate deactivation, as well as, two fast repolarizing and slow shunting potassium channels. The model quantitatively reproduces characteristics of steady-state activity that are typical for a cortical pyramidal neuron, namely firing rate not exceeding 30 Hz; critical values of the stimulating current and conductance which induce the depolarization block not exceeding 80 mV and 3, respectively (both values are scaled by the resting input conductance); extremum of hyperpolarization close to the midpoint between spikes. The analysis of the model reveals that the spiking regime appears through a saddle-node-on-invariant-circle bifurcation, and the depolarization block is reached through a saddle-node bifurcation of cycles. The model can be used for realistic network simulations, and it can also be implemented within the so-called mean-field, refractory density framework.
+
+<br>
+	
+---
+
 # • Reinforcement Learning in Biological Neural Networks
 
-Click [here](https://brian2.readthedocs.io/en/stable/examples/frompapers.Izhikevich_2003.html) to download the full report. Supervised by Georgy Antonov and Peter Dayan.
+Click [here](http://aesagtekin.github.io/files/RLwithSNNs.pdf) to download the full report. Supervised by Georgy Antonov and Peter Dayan.
 <br> <br>
 Abstract
 <br> <br>
@@ -23,7 +37,7 @@ rules.
 
 # • Emergent E/I tuning and balance during surrogate gradient learning
 
-Click [here](https://brian2.readthedocs.io/en/stable/examples/frompapers.Izhikevich_2003.html) to download the poster. Supervised by Manos Giannakakis and Anna Levina.
+Click [here](http://aesagtekin.github.io/files/SurrogateLearning.pdf) to download the poster. Supervised by Manos Giannakakis and Anna Levina.
 <br> <br>
 Take-home Messages
 <br> <br>
