@@ -4,6 +4,12 @@ permalink: /research/
 
 ---
 
+# • Fitting RNNs to spikes with variational generalised teacher forcing
+
+Ongoing project. Supervised by Matthijs Pals and Jakob Macke.
+
+---
+
 # • Single-compartment model of a pyramidal neuron, fitted to recordings with current and conductance injection
 
 Anton V. Chizhov, Dmitry V. Amakhin, A. Erdem Sagtekin & Mathieu Desroches.
