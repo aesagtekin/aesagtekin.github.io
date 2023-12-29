@@ -18,8 +18,6 @@ Anton V. Chizhov, Dmitry V. Amakhin, **A. Erdem Sagtekin** & Mathieu Desroches.
 Abstract
 <br> <br>
 For single neuron models, reproducing characteristics of neuronal activity such as the firing rate, amplitude of spikes, and threshold potentials as functions of both synaptic current and conductance is a challenging task. In the present work, we measure these characteristics of regular spiking cortical neurons using the dynamic patch-clamp technique, compare the data with predictions from the standard Hodgkin-Huxley and Izhikevich models, and propose a relatively simple five-dimensional dynamical system model, based on threshold criteria. The model contains a single sodium channel with slow inactivation, fast activation and moderate deactivation, as well as, two fast repolarizing and slow shunting potassium channels. The model quantitatively reproduces characteristics of steady-state activity that are typical for a cortical pyramidal neuron, namely firing rate not exceeding 30 Hz; critical values of the stimulating current and conductance which induce the depolarization block not exceeding 80 mV and 3, respectively (both values are scaled by the resting input conductance); extremum of hyperpolarization close to the midpoint between spikes. The analysis of the model reveals that the spiking regime appears through a saddle-node-on-invariant-circle bifurcation, and the depolarization block is reached through a saddle-node bifurcation of cycles. The model can be used for realistic network simulations, and it can also be implemented within the so-called mean-field, refractory density framework.
-
-<br>
 	
 ---
 
