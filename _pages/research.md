@@ -4,7 +4,7 @@ permalink: /research/
 
 ---
 
-# • Fitting RNNs to spikes with variational generalised teacher forcing
+# • Inferring stochastic low-rank recurrent neural networks from neural data
 
 [Link to paper](https://arxiv.org/html/2406.16749v1) <br>
 Matthijs Pals, **A Erdem Sağtekin**, Felix Pei, Manuel Gloeckler & Jakob H Macke
