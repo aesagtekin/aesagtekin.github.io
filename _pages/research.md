@@ -6,7 +6,7 @@ permalink: /research/
 # • Error Forcing in Recurrent Neural Networks
 
 Preprint in preparation.
-<br>
+<br><br>
 Abstract
 <br>
 
