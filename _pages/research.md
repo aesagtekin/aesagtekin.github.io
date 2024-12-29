@@ -5,7 +5,8 @@ permalink: /research/
 ---
 # • Error Forcing in Recurrent Neural Networks
 
-Preprint in preparation.
+Preprint in preparation.<br>
+A Erdem Sağtekin, Colin Bredenberg & Cristina Savin
 <br><br>
 Abstract
 <br>
