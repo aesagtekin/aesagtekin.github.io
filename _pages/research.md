@@ -3,6 +3,14 @@ title: "Research"
 permalink: /research/
 
 ---
+# • Error Forcing in Recurrent Neural Networks
+
+Preprint in preparation.
+<br> <br>
+Abstract
+<br> <br>
+
+How can feedback be used to achieve the best possible learning outcomes? Traditionally, feedback signals are thought to directly drive parameter (synaptic) changes. Yet, biophysically, the same signals also directly affect the activity of neurons. Here, we take advantage of this observation to develop a new algorithm for learning in recurrent neural networks (RNNs), where feedback influences both synaptic plasticity and the state of the network. We show that our approach, which we refer to as error forcing, outperforms traditional RNN learning in scenarios with temporally sparse feedback when the output is weakly constrained by the task. These benefits generalize across tasks and are maintained in a biologically-constrained approximation of error forcing.
 
 # • Inferring stochastic low-rank recurrent neural networks from neural data
 
