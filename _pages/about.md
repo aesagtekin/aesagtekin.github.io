@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a researcher in Flatiron Institute, co-supervised by Alex Williams and Cristina Savin. I work on metrics for dynamic representations. I have an MSc degree in Computational Neuroscience from the University of Tübingen, where I was funded by the German Academic Excellence Service (DAAD). I have a bachelor's degree in Electronics & Communication Engineering from Istanbul Technical University.  
+I'm currently a researcher in Flatiron Institute, co-supervised by Alex Williams and Cristina Savin. I work on metrics for dynamic representations. I have an MSc degree in Computational Neuroscience from the University of Tübingen, where I was funded by the German Academic Exchange Service (DAAD). I have a bachelor's degree in Electronics & Communication Engineering from Istanbul Technical University.  
 <br> 
 My research focus is learning, computation through dynamics, and latent variable models. In general, I approach neuroscience questions using modern machine learning tools and dynamical systems theory.  
 <br>
