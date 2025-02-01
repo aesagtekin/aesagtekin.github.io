@@ -58,9 +58,9 @@ Click [here](http://aesagtekin.github.io/files/SurrogateLearning.pdf) to downloa
 <br> <br>
 Take-home Messages
 <br> <br>
-• Training spiking neural networks on simple discrimination tasks shapes the neural tuning curve of the upstream neuron. <br>
+• Training spiking neural networks on simple discrimination tasks shapes the neural tuning curve of the postsynaptic neuron. <br>
 • A simple selectivity task leads to E/I anti-tuning, and also to E/I balance if a constraint is put on the post-synaptic firing rate. <br>
-• A novelty selectivity task is much harder to train, but leads to E/I co- tuning. <br>
+• A novelty selectivity task is much harder to train, but leads to E/I co-tuning. <br>
 	
 ---
 # • Implementing the cortex model in the "Simple model of spiking neurons" paper by E. M. Izhikevich (2003) with Brian2
