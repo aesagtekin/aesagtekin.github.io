@@ -1,0 +1,11 @@
+# main links links
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Community"
+    url: /community/    
+    
+  - title: "CV"
+    url: /cv/
+    
